@@ -1,14 +1,3 @@
-### Hi there 👋
-
-<!--
-**MJZM3A/MJZM3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on alura
-- 🌱 I’m currently learning codigos
-- 💬 Ask me about nada
-- 📫 How to reach me: não chegue a mim
-- 😄 Pronouns ele dela sou casado
-- ⚡ Fun fact: odeio o alura
--->
+### Hi there 
+### vão se foderem
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW12aXpsYTR6eWRvNzAzdnVoaDRyM2NsM2IwZ2Rka3g1bTV6N2g3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I7p8K5EY9w9dC/giphy.gif)
